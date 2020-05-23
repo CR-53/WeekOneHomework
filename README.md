@@ -13,7 +13,7 @@ I have used a browser size of 1920px X 969px to re-design this website.
 
 I have included a screenshot below of how the website looks in my browser. I understand that this homework assignment is more focused on the HTML/CSS code rather than browser responsiveness, however when referring to my work later in this ReadMe I will be basing it off the screenshot below.
 
-![Website Viewed Using My Screen Width](images\Website-Viewed-At-1920x969-pixels.png)
+![](assets/images/Website-Viewed-At-1920x969-pixels.png)
 
 ## License & copyright
 
