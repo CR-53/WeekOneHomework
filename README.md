@@ -4,7 +4,7 @@
 **Version 1.0.0**
 
 ## Task Description
-The task was to refactor the supplied code to meet basic web accessability standards. These standards are used by Web Developers to ensure people with disabilities or Socio-economic restrictions have access to websites. I have followed <a href="https://www.w3.org/WAI/standards-guidelines/wcag/"><Web Content Accessability Guidlines (WCAG)> found on the  Web Accessability Initiative (WAI) website, when refactoring the code.
+The task was to refactor the supplied code to meet basic web accessability standards. These standards are used by Web Developers to ensure people with disabilities or Socio-economic restrictions have access to websites. I have followed <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessability Guidlines (WCAG)</a> found on the  Web Accessability Initiative (WAI) website, when refactoring the code.
 
 ## Prefix
 When refactoring this website, I was working with a large monitor size and basing the styling for the website using my personal browser size. I have since learnt that this is not suitable practice for Web Development, however for this particular week one homework assignment I have not made any further updates to my styling to meet a standard sized screen. This means that if you are viewing my work on a smaller monitor (or browser window) than what I have used, the website will not be formatted properly.
