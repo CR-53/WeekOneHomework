@@ -1,0 +1,149 @@
+/*Styles that effect the whole page*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif; /*Google font used throughout the page*/
+}
+
+/*Background colour of the page*/
+body {
+    background-color: #d9dcd6;
+}
+
+/*Logo text - top left*/
+.header {
+    padding: 10px;
+    background-color: #557a95; /*Background colour was changed to improve colour contrast to meet WCAG standards*/
+    color: #ffffff;
+}
+
+/*Top left text-logo*/
+h1 {
+    margin-left: 100px; /*Pushes logo to the right, away from left screen edge*/
+    display: inline-block; 
+    font-size: 48px; 
+}
+
+/*"seo" letters in Top left text-logo*/
+.header h1 .seo {
+    color: #cfae90; /*Changes colour of "seo" letters in logo. This colour was chosen as part of a colour scheme I designed that I thought fit the hero image and looked nice. I made sure the colour scheme met WCAG colour contrast guidelines.*/ 
+}
+
+/*Navigation header*/
+.header nav {
+    padding-top: 20px;
+    margin-right: 120px;
+    float: right;
+    font-size: 20px;
+}
+
+/*Navigation header lists*/
+.header nav ul li {
+    display: inline-block;
+    margin-left: 30px; /*Controls the spacing between the navigation links*/
+}
+
+/*All Hyperlinks*/
+a {
+    color: #ffffff; /*Controls the colour of the links*/
+    text-decoration: none; /*Removes underline from links*/
+}
+
+/*All Paragraphs*/
+p {
+    font-size: 18px; /*Important to have font size above 16px so that it is easier to read and meets WCAG standards*/
+}
+
+/*Main hero image that appears under the navigation bar*/
+.hero-image {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg"); /*No "alt" tag was implemented as the image is for decoration*/
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*The main content on the page that sits under the hero image*/
+.content {
+    width: 70%; /*Controls the width of the content*/
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*The three section boxes in the content container*/
+.section {
+    margin-bottom: 26px;
+    padding: 50px;
+    height: 300px;
+    background-color: #557a95; /*Background colour was changed to improve colour contrast to meet WCAG standards*/
+    color: #ffffff; /*Font colour*/
+}
+
+.section img {
+    max-height: 200px; 
+}
+
+.section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    letter-spacing: 1.1px;   
+}
+
+
+/*Styles the benefits sidebar*/
+.benefits {
+    margin-right: 20px;
+    padding: 40px 50px 0px 50px; /*Controls the padding, order= top, right, bottom, left*/
+    clear: both;
+    float: right;
+    width: 26.5%;
+    height: 100%;
+    background-color: #557a95; /*Background colour was changed to improve colour contrast to meet WCAG standards*/
+}
+
+/*Styles individual benefits*/
+.aside-benefits {
+    margin-bottom: 80px;
+    color: #ffffff;
+    text-align: center; 
+}
+
+/*Styles the benefits headings*/
+.aside-benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 22px;
+    letter-spacing: 1.1px; 
+}
+
+/*Styles the benefits icon images*/
+.aside-benefits img {
+    display: block;
+    margin: auto; /*Centres the image inside the ancestor box*/
+    margin-bottom: 10px; /*Margin between images and supportin text*/
+    max-width: 150px;
+}  
+
+/*Footer - Used Class instead of ID incase more pages are added in future*/
+.footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+
+/*Styles the footer paragraph text*/
+.footer p {
+    font-size: 14px; /*Smaller font size is used as this is non-essential information for the average user*/
+}

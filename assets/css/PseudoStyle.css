@@ -1,0 +1,4 @@
+/*Controls the styling of all links when hovered over*/
+a:hover {
+    color: #cfae90; /*Controls the colour of the links when hovered over*/
+}
