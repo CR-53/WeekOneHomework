@@ -11,9 +11,22 @@ When refactoring this website, I was working with a large monitor size and basin
 
 I have used a browser size of 1920px X 969px to re-design this website. 
 
-I have included a screenshot below of how the website looks in my browser. I understand that this homework assignment is more focused on the HTML/CSS code rather than browser responsiveness, however when referring to my work later in this ReadMe I will be basing it off the screenshot below.
+I have included an image below of how the website looks in my browser. I understand that this homework assignment is more focused on the HTML/CSS code rather than browser responsiveness, however when referring to my work later in this ReadMe I will be basing it off the image below.
 
-![Website Viewed Using My Screen Width](images\Website-Viewed-At-1920x969-pixels.png)
+![](assets/images/Website-Viewed-At-1920x969-pixels.png)
+
+## Following Web Content Accessability Guidelines (WCAG)
+
+In this section I will outline the major changes I made to the website and the WCAG theory that provoked these changes to be made.
+
+### Adding "alt" tags
+
+Alt tags are used to convery the purpose of an image for users who do not see the image. Users not being able to see the image on their screen can be down to a number of factors, however the most common of these are due to the person being visually impaired or having turned images off to increase download speed or save bandwidth.
+
+When a person cannot see the image, the alt text can be played using a screen reader.
+
+
+
 
 ## License & copyright
 
