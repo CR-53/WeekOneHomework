@@ -17,15 +17,15 @@ I have included an image below of how the website looks in my browser. I underst
 
 ## Following Web Content Accessability Guidelines (WCAG)
 
-In this section I will outline the major changes I made to the website and the WCAG theory that provoked these changes to be made.
+In this section of the ReadMe I will outline the major changes I made to the website and the WCAG theory that provoked these changes to be made.
 
 ### Adding "alt" tags
 
 Alt tags are used to convery the purpose of an image for users who do not see the image. Users not being able to see the image on their screen can be down to a number of factors, however the most common of these are due to the person being visually impaired or having turned images off to increase download speed or save bandwidth.
 
-When a person cannot see the image, the alt text can be played using a screen reader.
+When a person cannot see the image, the alt text can be played using a screen reader. The hero image was purely decorative so no alt tag was needed. The other images supported what the text was saying, so I decided to an alt tag for these.
 
-
+### Changing the Colour Scheme
 
 
 ## License & copyright
