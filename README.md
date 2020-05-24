@@ -38,7 +38,7 @@ I changed the font family and font sizing throughout the page to make the text e
 
 #### Reformatting the Page
 
-I made numerous changes to the styling of the page in regards to margins, padding and spacing so that each section and sub-section of content was easier to read. As noted in the Prefix, I styled the page based on my monitor size, which I have now learnt is not the correct method for future projects. As seen in the image above, each section & sub-section can clearly be defined with adequate spacing and padding between them. Originally, the sidebar sub-sections were quite close together and the page did not line up, which was something I tried hard to fix.
+I made numerous changes to the styling of the page in regards to margins, padding and spacing so that each section and sub-section of content was easier to read. As noted in the Prefix, I styled the page based on my monitor size, which I have now learnt is not the correct method for future projects. As seen in the image above, each section & sub-section can clearly be defined with adequate spacing and padding between them. Originally, the sidebar sub-sections were quite close together and the page did not line up, which was something I tried hard to fix. I also took into consideration the height of the navbar and the horizontal margin between links, making sure enoughs space was between them so they can properly be identified/read.
 
 ## License & copyright
 
