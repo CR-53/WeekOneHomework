@@ -42,4 +42,4 @@ I made numerous changes to the styling of the page in regards to margins, paddin
 
 ## License & copyright
 
-© Chris Roschi, University of Adelaide Coding Bootcamp
+© Chris R, University of Adelaide Coding Bootcamp
